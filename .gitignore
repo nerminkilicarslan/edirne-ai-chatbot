@@ -1,0 +1,15 @@
+# node
+node_modules/
+package-lock.json
+
+# env
+.env
+
+# data files 
+data/embeddings.json
+data/pages_state.json
+data/chunks_state.json
+data/hnswlib/
+
+# mac
+.DS_Store
