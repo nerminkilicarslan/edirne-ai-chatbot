@@ -1,15 +1,12 @@
-# node
-node_modules/
-package-lock.json
-
-# env
-.env
-
-# data files 
+# data files
+data/sss.docx
+data/web_pages.json
 data/embeddings.json
 data/pages_state.json
 data/chunks_state.json
 data/hnswlib/
 
-# mac
+# node
+node_modules/
+.env
 .DS_Store
