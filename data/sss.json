@@ -1,0 +1,694 @@
+[
+  {
+    "id": "genel_hizmetler",
+    "category": "genel",
+    "question": "Edirne Belediyesi hangi hizmetleri sunmaktadır?",
+    "answer": "Edirne Belediyesi su aboneliği, kanalizasyon bağlantısı, yıkım ruhsatı, nikâh işlemleri, cenaze ve defin hizmetleri, imar durumu belgesi başvurusu, yapı kullanma izin belgesi, askıda fatura, e-beyan ve çeşitli belediye işlemleri gibi çok sayıda hizmet sunmaktadır.",
+    "links": [
+      {
+        "label": "Belediye hizmetleri için buraya tıklayın",
+        "url": "https://edirne.bel.tr"
+      }
+    ],
+    "keywords": [
+      "edirne belediyesi hizmetleri",
+      "belediye hizmetleri",
+      "genel hizmetler"
+    ]
+  },
+  {
+    "id": "su_aboneligi",
+    "category": "su_hizmetleri",
+    "question": "Su aboneliğim için nereye başvurabilirim?",
+    "answer": "Su aboneliği ve su bağlantısı başvurularınızı Edirne Belediyesi su hizmetleri üzerinden yapabilirsiniz. Su faturası ödeme ve bazı belediye işlemleri için e-Belediye sistemi de kullanılabilir.",
+    "links": [
+      {
+        "label": "e-Belediye işlemleri için buraya tıklayın",
+        "url": "https://ebys.edirne.bel.tr/ebelediye"
+      }
+    ],
+    "keywords": [
+      "su aboneliği",
+      "su bağlantısı",
+      "su faturası",
+      "abonelik",
+      "su hizmetleri"
+    ]
+  },
+  {
+    "id": "su_faturasi_odeme",
+    "category": "su_hizmetleri",
+    "question": "Su faturası nasıl ödenir?",
+    "answer": "Su faturası ve ilgili belediye ödemeleri için Edirne Belediyesi e-Belediye sistemi kullanılabilir.",
+    "links": [
+      {
+        "label": "Su faturası işlemleri için buraya tıklayın",
+        "url": "https://ebys.edirne.bel.tr/ebelediye"
+      }
+    ],
+    "keywords": [
+      "su faturası",
+      "fatura ödeme",
+      "su ödeme",
+      "e-belediye"
+    ]
+  },
+  {
+    "id": "vergi_odeme",
+    "category": "vergi",
+    "question": "Emlak, çevre temizlik ve reklam vergisi gibi vergiler nasıl ödenir?",
+    "answer": "Edirne Belediyesi e-Belediye portalı veya e-Devlet üzerinden emlak vergisi, çevre temizlik vergisi ve ilan-reklam vergisi gibi vergi ve harçların beyan ve ödemeleri yapılabilmektedir.",
+    "links": [
+      {
+        "label": "e-Belediye işlemleri için buraya tıklayın",
+        "url": "https://ebys.edirne.bel.tr/ebelediye"
+      },
+      {
+        "label": "e-Devlet işlemleri için buraya tıklayın",
+        "url": "https://www.turkiye.gov.tr"
+      }
+    ],
+    "keywords": [
+      "emlak vergisi",
+      "çevre temizlik vergisi",
+      "ilan reklam vergisi",
+      "vergi ödeme",
+      "e-belediye",
+      "e-devlet"
+    ]
+  },
+  {
+    "id": "kentkart_kayip",
+    "category": "ulasim",
+    "question": "KentKart'ımı kaybettim, ne yapmalıyım?",
+    "answer": "KentKart kaybı durumunda ETUS Halkla İlişkiler Bürosu'na başvurarak yeni bir kart çıkarabilirsiniz.",
+    "links": [
+      {
+        "label": "KentKart işlemleri için buraya tıklayın",
+        "url": "https://m.kentkart.com/home"
+      }
+    ],
+    "keywords": [
+      "kentkart",
+      "kart kaybı",
+      "ETUS",
+      "ulaşım kartı"
+    ]
+  },
+  {
+    "id": "kentkart_65_yas",
+    "category": "ulasim",
+    "question": "65 yaş üzeri vatandaşlar için KentKart nasıl çıkarılır?",
+    "answer": "65 yaş üzeri KentKart için nüfus cüzdanı fotokopisi ve 1 adet vesikalık fotoğraf ile başvuru yapılır.",
+    "links": [
+      {
+        "label": "KentKart işlemleri için buraya tıklayın",
+        "url": "https://m.kentkart.com/home"
+      }
+    ],
+    "keywords": [
+      "65 yaş kentkart",
+      "yaşlı kentkart",
+      "ücretsiz ulaşım kartı",
+      "ETUS"
+    ]
+  },
+  {
+    "id": "kentkart_ogrenci",
+    "category": "ulasim",
+    "question": "Üniversite öğrencileri için KentKart nasıl çıkarılır?",
+    "answer": "Üniversite öğrencileri için öğrenim belgesi veya öğrenci kimlik fotokopisi, nüfus cüzdanı fotokopisi ve yerleşim belgesi gibi belgelerle başvuru yapılır.",
+    "links": [
+      {
+        "label": "KentKart işlemleri için buraya tıklayın",
+        "url": "https://m.kentkart.com/home"
+      }
+    ],
+    "keywords": [
+      "öğrenci kentkart",
+      "üniversite kentkart",
+      "indirimli kart",
+      "ETUS"
+    ]
+  },
+  {
+    "id": "kentkart_ilk_ortaokul",
+    "category": "ulasim",
+    "question": "İlkokul ve ortaokul öğrencileri için KentKart nasıl çıkarılır?",
+    "answer": "İlkokul ve ortaokul öğrencileri için okul kimlik fotokopisi, nüfus cüzdanı fotokopisi ve vesikalık fotoğraf ile başvuru yapılır.",
+    "links": [
+      {
+        "label": "KentKart işlemleri için buraya tıklayın",
+        "url": "https://m.kentkart.com/home"
+      }
+    ],
+    "keywords": [
+      "ilkokul kentkart",
+      "ortaokul kentkart",
+      "öğrenci ulaşım kartı",
+      "ETUS"
+    ]
+  },
+  {
+    "id": "kentkart_engelli",
+    "category": "ulasim",
+    "question": "Engelli KentKart nasıl çıkarılır?",
+    "answer": "%40 ve üzeri engel raporu veya ilgili resmi belge ile belge fotokopileri ve vesikalık fotoğrafla başvuru yapılabilir.",
+    "links": [
+      {
+        "label": "KentKart işlemleri için buraya tıklayın",
+        "url": "https://m.kentkart.com/home"
+      }
+    ],
+    "keywords": [
+      "engelli kentkart",
+      "engelli ulaşım kartı",
+      "engel raporu",
+      "ETUS"
+    ]
+  },
+  {
+    "id": "kentkart_yenileme",
+    "category": "ulasim",
+    "question": "KentKart'ımı yeniletmem gerekir mi?",
+    "answer": "İndirimli veya ücretsiz kullanım için kartlar bir yıllık süreyle geçerlidir. Süresi dolduğunda ETUS bürosuna giderek yenileme yapılmalıdır.",
+    "links": [
+      {
+        "label": "KentKart işlemleri için buraya tıklayın",
+        "url": "https://m.kentkart.com/home"
+      }
+    ],
+    "keywords": [
+      "kentkart yenileme",
+      "kart süresi",
+      "ulaşım kartı yenileme",
+      "ETUS"
+    ]
+  },
+  {
+    "id": "otobuste_kayip_esya",
+    "category": "ulasim",
+    "question": "Otobüste eşya kaybettim, ne yapabilirim?",
+    "answer": "Otobüste kayıp eşya durumunda ETUS Halkla İlişkiler ofisi ile iletişime geçerek bilgi alabilirsiniz.",
+    "links": [
+      {
+        "label": "KentKart ve ulaşım işlemleri için buraya tıklayın",
+        "url": "https://m.kentkart.com/home"
+      }
+    ],
+    "keywords": [
+      "otobüste kayıp eşya",
+      "ETUS",
+      "ulaşım",
+      "kayıp eşya"
+    ]
+  },
+  {
+    "id": "nikah_islemleri",
+    "category": "nikah",
+    "question": "Nikâh işlemleri belediye üzerinden nasıl yapılır?",
+    "answer": "Nikâh işlemleri için Edirne Belediyesi Evlendirme Memurluğu'na gerekli belgelerle başvuru yapılır. Başvuru süreci ve detaylı bilgiler resmi hizmet sayfasında yer almaktadır.",
+    "links": [
+      {
+        "label": "Nikâh işlemleri için buraya tıklayın",
+        "url": "https://edirne.bel.tr/hizmet?hizmetid=e3a858df-b6c7-41f6-873b-941bb0aa526e"
+      }
+    ],
+    "keywords": [
+      "nikah",
+      "evlendirme",
+      "nikah başvurusu",
+      "evlilik işlemleri"
+    ]
+  },
+  {
+    "id": "nikah_randevu",
+    "category": "nikah",
+    "question": "Nikâh randevusu nasıl alınır?",
+    "answer": "Nikâh randevusu ve başvuru süreci hakkında detaylı bilgi Edirne Belediyesi'nin resmi hizmet sayfasında yer almaktadır.",
+    "links": [
+      {
+        "label": "Nikâh randevusu için buraya tıklayın",
+        "url": "https://edirne.bel.tr/hizmet?hizmetid=e3a858df-b6c7-41f6-873b-941bb0aa526e"
+      }
+    ],
+    "keywords": [
+      "nikah randevu",
+      "evlilik randevusu",
+      "nikah başvurusu"
+    ]
+  },
+  {
+    "id": "nikah_belgeler",
+    "category": "nikah",
+    "question": "Nikâh için gerekli belgeler nelerdir?",
+    "answer": "Nikâh işlemleri için gerekli belgeler ve başvuru detayları Edirne Belediyesi'nin resmi hizmet sayfasında açıklanmaktadır.",
+    "links": [
+      {
+        "label": "Nikâh belgeleri için buraya tıklayın",
+        "url": "https://edirne.bel.tr/hizmet?hizmetid=e3a858df-b6c7-41f6-873b-941bb0aa526e"
+      }
+    ],
+    "keywords": [
+      "nikah belgeleri",
+      "evlilik belgeleri",
+      "nikah evrakları"
+    ]
+  },
+  {
+    "id": "imar_durumu",
+    "category": "imar",
+    "question": "İmar durumu belgesi almak istiyorum. Ne yapmalıyım?",
+    "answer": "İmar durumu belgesi için belediyenin ilgili birimine gerekli belgelerle başvuru yapılmalıdır. Süreç hakkında resmi belediye sayfalarından bilgi alınabilir.",
+    "links": [
+      {
+        "label": "İmar işlemleri için buraya tıklayın",
+        "url": "https://edirne.bel.tr/hizmet?hizmetid=7da196d3-0928-4f8a-8c73-f9d103a765e5"
+      }
+    ],
+    "keywords": [
+      "imar durumu",
+      "imar belgesi",
+      "imar başvurusu"
+    ]
+  },
+  {
+    "id": "yapi_kullanma_izin",
+    "category": "imar",
+    "question": "Yapı kullanma izin belgesi almak istiyorum. Ne yapmalıyım?",
+    "answer": "Yapı kullanma izin belgesi için belediyenin ilgili birimine gerekli belgelerle başvuru yapılmalıdır. Başvuru süreci resmi belediye kaynaklarından takip edilmelidir.",
+    "links": [
+      {
+        "label": "Yapı izin işlemleri için buraya tıklayın",
+        "url": "https://edirne.bel.tr/hizmet?hizmetid=b9562048-062f-4e47-9e8e-fdb87bedb629"
+      }
+    ],
+    "keywords": [
+      "yapı kullanma izin belgesi",
+      "iskan",
+      "yapı izin belgesi"
+    ]
+  },
+  {
+    "id": "yikim_ruhsati",
+    "category": "imar",
+    "question": "Yıkım ruhsatı almak istiyorum. Ne yapmalıyım?",
+    "answer": "Yıkım ruhsatı için gerekli belgelerle belediyenin ilgili birimine başvuru yapılmalıdır. Detaylı süreç için resmi belediye kaynakları takip edilmelidir.",
+    "links": [
+      {
+        "label": "Ruhsat işlemleri için buraya tıklayın",
+        "url": "https://edirne.bel.tr/hizmet?hizmetid=59273ffa-2df4-49fc-8735-45cb6558ef92"
+      }
+    ],
+    "keywords": [
+      "yıkım ruhsatı",
+      "ruhsat",
+      "imar işlemleri"
+    ]
+  },
+  {
+    "id": "askida_fatura",
+    "category": "sosyal_yardim",
+    "question": "Askıda fatura nedir ve nasıl faydalanabilirim?",
+    "answer": "Askıda fatura, maddi zorluk yaşayan vatandaşların faturalarının dayanışma modeliyle ödenmesine katkı sağlayan bir sistemdir. Başvuru ve destek işlemleri belediyenin çevrim içi sistemleri üzerinden takip edilebilir.",
+    "links": [
+      {
+        "label": "Askıda fatura işlemleri için buraya tıklayın",
+        "url": "https://ebys.edirne.bel.tr/ebelediye"
+      }
+    ],
+    "keywords": [
+      "askıda fatura",
+      "fatura yardımı",
+      "sosyal destek",
+      "ebelediye"
+    ]
+  },
+  {
+    "id": "sosyal_yardim_basvuru",
+    "category": "sosyal_yardim",
+    "question": "Sosyal yardım başvurusu nasıl yapılır?",
+    "answer": "Sosyal yardım başvuruları Edirne Belediyesi Sosyal Yardım Çözüm Merkezi üzerinden alınır. Başvurular değerlendirilerek uygun durumlarda destek sağlanır.",
+    "links": [
+      {
+        "label": "Sosyal yardım işlemleri için buraya tıklayın",
+        "url": "https://cozum.edirne.bel.tr/"
+      }
+    ],
+    "keywords": [
+      "sosyal yardım",
+      "yardım başvurusu",
+      "çözüm merkezi",
+      "destek başvurusu"
+    ]
+  },
+  {
+    "id": "cenaze_defin",
+    "category": "cenaze",
+    "question": "Cenaze ve defin hizmetleri hakkında bilgi alabilir miyim?",
+    "answer": "Cenaze ve defin işlemleri için ölüm belgesi alındıktan sonra belediyenin ilgili birimine başvuru yapılır. Süreç ve destek hizmetleri belediye tarafından yönlendirilir.",
+    "links": [
+      {
+        "label": "Cenaze ve defin hizmetleri için buraya tıklayın",
+        "url": "https://edirne.bel.tr/hizmet?hizmetid=2e3253a4-6096-4a6f-9da2-578e07dfcc7f"
+      }
+    ],
+    "keywords": [
+      "cenaze",
+      "defin",
+      "mezarlık işleri",
+      "ölüm belgesi"
+    ]
+  },
+  {
+    "id": "dilekce_talep",
+    "category": "genel",
+    "question": "Belediyeye nasıl dilekçe veya talep iletebilirim?",
+    "answer": "Belediyeye dilekçe ve taleplerinizi CİMER aracılığıyla veya belediyenin web sitesi üzerindeki Bize Yazın formu ile iletebilirsiniz.",
+    "links": [
+      {
+        "label": "İletişim ve başvuru için buraya tıklayın",
+        "url": "https://edirne.bel.tr"
+      }
+    ],
+    "keywords": [
+      "dilekçe",
+      "talep",
+      "bize yazın",
+      "cimer"
+    ]
+  },
+  {
+    "id": "evrak_cikti",
+    "category": "genel",
+    "question": "Belediyeden herhangi bir belgenin çıktısını nasıl alabilirim?",
+    "answer": "İmar durumu ve benzeri evraklar için belediyenin ilgili birimine bizzat başvuru yapabilir veya e-Belediye sistemi üzerinden talep oluşturabilirsiniz.",
+    "links": [
+      {
+        "label": "e-Belediye işlemleri için buraya tıklayın",
+        "url": "https://ebys.edirne.bel.tr/ebelediye"
+      }
+    ],
+    "keywords": [
+      "evrak çıktısı",
+      "belge çıktısı",
+      "imar durumu",
+      "ebelediye"
+    ]
+  },
+  {
+    "id": "otopark_konum",
+    "category": "otopark",
+    "question": "Belediyeye ait otoparklar nerede? Nasıl ulaşırım?",
+    "answer": "Belediyeye ait otoparkların konum ve ulaşım bilgilerine resmi otopark sayfası üzerinden erişebilirsiniz.",
+    "links": [
+      {
+        "label": "Otopark bilgileri için buraya tıklayın",
+        "url": "https://ulasim.edirne.bel.tr/Home/Otopark"
+      }
+    ],
+    "keywords": [
+      "otopark",
+      "belediye otopark",
+      "otopark konumu",
+      "ulaşım"
+    ]
+  },
+  {
+    "id": "otopark_ucretleri",
+    "category": "otopark",
+    "question": "Otopark ücretleri nelerdir?",
+    "answer": "Belediyeye ait otoparkların ücret bilgileri resmi otopark sayfasında yer almaktadır.",
+    "links": [
+      {
+        "label": "Otopark ücretleri için buraya tıklayın",
+        "url": "https://ulasim.edirne.bel.tr/Home/Otopark"
+      }
+    ],
+    "keywords": [
+      "otopark ücretleri",
+      "otopark fiyatları",
+      "otopark tarifesi"
+    ]
+  },
+  {
+    "id": "otopark_odeme",
+    "category": "otopark",
+    "question": "Otopark ücreti nasıl ödenir?",
+    "answer": "Otopark ücret ödeme işlemleri resmi ödeme sayfası üzerinden gerçekleştirilebilir.",
+    "links": [
+      {
+        "label": "Otopark ödeme işlemleri için buraya tıklayın",
+        "url": "https://ulasim.edirne.bel.tr/Odeme"
+      }
+    ],
+    "keywords": [
+      "otopark ödeme",
+      "otopark ücreti ödeme",
+      "ödeme",
+      "otopark"
+    ]
+  },
+  {
+    "id": "iletisim",
+    "category": "iletisim",
+    "question": "Belediyeyle nasıl iletişime geçebilirim?",
+    "answer": "Edirne Belediyesi ile iletişim için ALO 153 hattını arayabilir, +90 (284) 213-91-40 numarasını kullanabilir veya belediyenin resmi iletişim kanallarından başvuru yapabilirsiniz.",
+    "links": [
+      {
+        "label": "İletişim sayfası için buraya tıklayın",
+        "url": "https://edirne.bel.tr/home/iletisim"
+      }
+    ],
+    "keywords": [
+      "iletişim",
+      "alo 153",
+      "telefon",
+      "belediye ulaşım"
+    ]
+  },
+  {
+    "id": "edevlet_hizmetleri",
+    "category": "genel",
+    "question": "E-Devlet üzerinden belediye hizmetlerini nasıl görebilirim?",
+    "answer": "E-Devlet Kapısı üzerinden Edirne Belediyesi ile ilgili vergi, abonelik ve diğer belediye hizmetlerini görüntüleyebilirsiniz.",
+    "links": [
+      {
+        "label": "e-Devlet işlemleri için buraya tıklayın",
+        "url": "https://www.turkiye.gov.tr"
+      }
+    ],
+    "keywords": [
+      "edevlet",
+      "belediye hizmetleri",
+      "vergi sorgulama",
+      "abonelik"
+    ]
+  },
+  {
+    "id": "erisilebilirlik",
+    "category": "erisilebilirlik",
+    "question": "Belediye web sitesi mobil erişim ve erişilebilirlik desteği var mı?",
+    "answer": "Edirne Belediyesi web sitesinde erişilebilirlik desteğine yönelik çeşitli özellikler bulunabilir. Sorun yaşanması halinde belediyenin iletişim kanalları üzerinden bildirim yapılabilir.",
+    "links": [
+      {
+        "label": "Erişilebilirlik ve iletişim için buraya tıklayın",
+        "url": "https://edirne.bel.tr"
+      }
+    ],
+    "keywords": [
+      "erişilebilirlik",
+      "mobil erişim",
+      "engelli erişimi",
+      "web sitesi"
+    ]
+  },
+  {
+    "id": "pazar_yerleri",
+    "category": "genel",
+    "question": "Pazar yerleri nerede?",
+    "answer": "Edirne’deki pazar yerleriyle ilgili bilgilere belediyenin ilgili sayfasından ulaşabilirsiniz.",
+    "links": [
+      {
+        "label": "Pazar yerleri için buraya tıklayın",
+        "url": "https://www.edirne.bel.tr/belediye/pazaryer"
+      }
+    ],
+    "keywords": [
+      "pazar yerleri",
+      "semt pazarı",
+      "pazar"
+    ]
+  },
+  {
+    "id": "kultur_turizm",
+    "category": "kultur_turizm",
+    "question": "Edirne'de kültür ve turizm yerleri nerede bulunur?",
+    "answer": "Edirne’deki kültür ve turizm noktalarıyla ilgili bilgilere belediyenin kültür sayfasından ulaşabilirsiniz.",
+    "links": [
+      {
+        "label": "Kültür ve turizm yerleri için buraya tıklayın",
+        "url": "https://www.edirne.bel.tr/kultur"
+      }
+    ],
+    "keywords": [
+      "kültür",
+      "turizm",
+      "gezilecek yerler",
+      "edirne gezi"
+    ]
+  },
+  {
+    "id": "kanalizasyon_baglanti",
+    "category": "su_hizmetleri",
+    "question": "Kanalizasyon bağlantısı başvurusu nasıl yapılır?",
+    "answer": "Kanalizasyon bağlantısı başvurusu için resmi hizmet sayfasındaki bilgiler doğrultusunda işlem yapılabilir.",
+    "links": [
+      {
+        "label": "Kanalizasyon bağlantısı başvurusu için buraya tıklayın",
+        "url": "https://www.edirne.bel.tr/hizmet?hizmetid=c1a65fd2-a33e-4640-8e58-1cdecd74a09f"
+      }
+    ],
+    "keywords": [
+      "kanalizasyon bağlantısı",
+      "altyapı bağlantısı",
+      "kanalizasyon başvurusu"
+    ]
+  },
+  {
+    "id": "gundem_duyurular",
+    "category": "duyurular",
+    "question": "Belediyenin güncel duyurularını nereden görebilirim?",
+    "answer": "Edirne Belediyesi’nin güncel duyurularına resmi duyurular sayfasından ulaşabilirsiniz.",
+    "links": [
+      {
+        "label": "Güncel duyurular için buraya tıklayın",
+        "url": "https://www.edirne.bel.tr/gundem/duyurular"
+      }
+    ],
+    "keywords": [
+      "duyurular",
+      "gündem",
+      "belediye duyuruları",
+      "güncel duyurular"
+    ]
+  },
+  {
+    "id": "nobetci_eczane",
+    "category": "saglik_yonlendirme",
+    "question": "Nöbetçi eczaneleri nereden görebilirim?",
+    "answer": "Nöbetçi eczane bilgilerine ilgili resmi eczacı odası sayfasından ulaşabilirsiniz.",
+    "links": [
+      {
+        "label": "Nöbetçi eczaneler için buraya tıklayın",
+        "url": "https://www.edirneeo.org.tr/nobetci-eczaneler"
+      }
+    ],
+    "keywords": [
+      "nöbetçi eczane",
+      "eczane",
+      "bugün nöbetçi eczane"
+    ]
+  },
+  {
+    "id": "yesil_edirne_bagis",
+    "category": "bagis",
+    "question": "Yeşil Edirne bağışı nasıl yapılır?",
+    "answer": "Yeşil Edirne bağış işlemleri ilgili resmi bağış sayfası üzerinden gerçekleştirilebilir.",
+    "links": [
+      {
+        "label": "Yeşil Edirne bağışı için buraya tıklayın",
+        "url": "https://yesil.edirne.bel.tr/Bagis"
+      }
+    ],
+    "keywords": [
+      "yeşil edirne",
+      "bağış",
+      "fidan bağışı",
+      "destek"
+    ]
+  },
+  {
+    "id": "toplu_tasima_guzergah",
+    "category": "ulasim",
+    "question": "Toplu taşıma güzergahlarını nereden görebilirim?",
+    "answer": "Toplu taşıma güzergah ve durak haritasına ilgili resmi dosyadan ulaşabilirsiniz.",
+    "links": [
+      {
+        "label": "Toplu taşıma güzergahları için buraya tıklayın",
+        "url": "https://adminulasim.edirne.bel.tr/Upload/2026%20Durak%20haritası_20260114141945863.pdf"
+      }
+    ],
+    "keywords": [
+      "toplu taşıma",
+      "güzergah",
+      "durak haritası",
+      "otobüs güzergahı"
+    ]
+  },
+  {
+    "id": "muhtarlar",
+    "category": "genel",
+    "question": "Muhtarlar listesine nereden ulaşabilirim?",
+    "answer": "Edirne’deki muhtarlar listesine belediyenin ilgili sayfasından ulaşabilirsiniz.",
+    "links": [
+      {
+        "label": "Muhtarlar listesi için buraya tıklayın",
+        "url": "https://www.edirne.bel.tr/belediye/muhtarlar"
+      }
+    ],
+    "keywords": [
+      "muhtarlar",
+      "muhtar listesi",
+      "mahalle muhtarı"
+    ]
+  },
+  {
+    "id": "kirkpinar",
+    "category": "kultur_turizm",
+    "question": "Kırkpınar Güreşleri hakkında bilgiye nereden ulaşabilirim?",
+    "answer": "Kırkpınar Güreşleri ile ilgili resmi bilgilere ilgili resmi site üzerinden ulaşabilirsiniz.",
+    "links": [
+      {
+        "label": "Kırkpınar Güreşleri için buraya tıklayın",
+        "url": "https://www.edirnekirkpinar.com/tr/anasayfa"
+      }
+    ],
+    "keywords": [
+      "kırkpınar",
+      "güreş",
+      "etkinlik",
+      "kültür"
+    ]
+  },
+  {
+    "id": "cevap_bulunamadi_yonlendirme",
+    "category": "fallback",
+    "question": "Chatbot bir soruya net cevap veremediğinde kullanıcı nereye yönlendirilmelidir?",
+    "answer": "Bu konuda elimde net bir bilgi bulunmuyor. En doğru bilgi için Edirne Belediyesi iletişim kanallarını kullanabilirsiniz: ALO 153, +90 (284) 213-91-40 veya resmi belediye web sitesi.",
+    "links": [
+      {
+        "label": "İletişim için buraya tıklayın",
+        "url": "https://edirne.bel.tr"
+      }
+    ],
+    "keywords": [
+      "cevap yok",
+      "bilgi bulunamadı",
+      "iletişim yönlendirme",
+      "fallback"
+    ]
+  },
+  {
+    "id": "kapsam_disi_soru",
+    "category": "fallback",
+    "question": "Belediye ile ilgisiz bir soru sorulursa nasıl cevap verilmelidir?",
+    "answer": "Bu konuda yardımcı olamam. Ben yalnızca Edirne Belediyesi hizmetleri, başvurular, iletişim ve belediye işlemleriyle ilgili soruları yanıtlamak için tasarlandım.",
+    "links": [],
+    "keywords": [
+      "kapsam dışı",
+      "alakasız soru",
+      "belediye dışı soru"
+    ]
+  }
+]
